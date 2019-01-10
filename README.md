@@ -9,13 +9,13 @@ Tener instalado Ruby 2.5.3
 
 ### Uso
 
-Para ejecutar los archivos ubicarse en el capitulo correspondiente y ejecutar lo siguiente
+Para ejecutar los archivos ubicarse en el capitulo correspondiente (cd nombreDelCapitulo)
 
 ```
-cd nombreDelCapitulo
+cd capitulo14
 ```
-una vez allì
+una vez allì ejecutar el archivo de la siguiente manera ruby nombreDelArchivo.rb
 
 ```
-ruby nombreDelArchivo.rb
+ruby calculadora.rb
 ```
